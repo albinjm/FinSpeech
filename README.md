@@ -1,5 +1,10 @@
 # Enhanced Speech Recognition for Banking Dialogues Using CRDNN and Language Models
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/albinjm/FinSpeech/master/LICENSE)
+
+![](https://albinjm.github.io/assets/img/FinSpeech.gif)
+
+
 ## Overview
 
 In the financial sector, understanding customer needs accurately and efficiently is paramount. This project aims to advance speech recognition capabilities within banking dialogues by employing a Convolutional, Recurrent, and Dense Neural Network (CRDNN) alongside Language Model (LM) support. Utilizing the HarperValleyBank (HVB) corpus, we delve into creating a speech recognition system that accurately transcribes banking interactions, paving the way for improved customer service automation and analytics in the banking industry.
